@@ -4,7 +4,7 @@ My daily practice log of LeetCode problems — solutions, explanations, and note
 
 ## 📊 Progress
 
-- **Total problems solved:** 0
+- **Total problems solved:** 272
 - **Started on:** July 2026
 - **Languages used:** C++
 
